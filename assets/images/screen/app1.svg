@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="844.449" height="751.51" viewBox="0 0 844.449 751.51">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00f260"/>
+      <stop offset="1" stop-color="#0575e6"/>
+    </linearGradient>
+    <filter id="Rectangle_21" x="289.25" y="9.192" width="555.199" height="742.318" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-color="#858585" flood-opacity="0.157"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.088" x2="0.985" y2="0.563" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0.962" y1="0.149" x2="0.026" y2="0.869" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0.986" y1="0.023" x2="0" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="48.538" height="108.449" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-9" x2="0.017" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="0" y1="1" x2="1" y2="0" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_176" data-name="Group 176" transform="translate(-117.786 -1930.808)">
+    <g id="Group_166" data-name="Group 166" transform="translate(300 1980)">
+      <path id="Path_175" data-name="Path 175" d="M35.657,422.395S24.4,531,104.59,621s204.23,120.178,304.28,147.277S594.294,753.731,617.8,669.6s-50.194-125-78.613-231.837S518.909,299.322,438.594,221s-223.965-68.957-310.786,20.18S35.657,422.395,35.657,422.395Z" transform="translate(-35.116 -167.808)" fill="url(#linear-gradient)"/>
+      <path id="Path_176" data-name="Path 176" d="M35.657,422.395S24.4,531,104.59,621s204.23,120.178,304.28,147.277S594.294,753.731,617.8,669.6s-50.194-125-78.613-231.837S518.909,299.322,438.594,221s-223.965-68.957-310.786,20.18S35.657,422.395,35.657,422.395Z" transform="translate(-35.116 -167.808)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(482.037 2092.284) rotate(-18)">
+      <g transform="matrix(0.95, 0.31, -0.31, 0.95, -296.52, -266.13)" filter="url(#Rectangle_21)">
+        <rect id="Rectangle_21-2" data-name="Rectangle 21" width="250.095" height="541.539" rx="20" transform="translate(364.25 161.48) rotate(-18)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="210.079" height="41.047" rx="20.523" transform="translate(20.008 480.787)" fill="url(#linear-gradient-3)"/>
+      <g id="Group_28" data-name="Group 28" transform="translate(20.008 26.497)">
+        <path id="Path_10" data-name="Path 10" d="M16.46,6.5H2.554l4.228,4.228-.94.94L0,5.836,5.842,0l.94.94L2.554,5.169H16.46Z" fill="#222253"/>
+      </g>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="24.651" height="24.651" rx="5" transform="translate(205.437 20.008)" fill="url(#linear-gradient)"/>
+      <g id="Group_30" data-name="Group 30" transform="translate(32.48 161.843)">
+        <rect id="Rectangle_24" data-name="Rectangle 24" width="185.237" height="112.793" fill="url(#linear-gradient)"/>
+        <g id="Group_29" data-name="Group 29" transform="translate(136.119 67.005)">
+          <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="9.898" cy="9.898" rx="9.898" ry="9.898" fill="#ea001b"/>
+          <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="9.898" cy="9.898" rx="9.898" ry="9.898" transform="translate(14.584 0)" fill="#f79f1a"/>
+        </g>
+        <text id="Card_Name" data-name="Card Name" transform="translate(151.653 93.253)" fill="#fff" font-size="3" font-family="SegoeUI, Segoe UI" letter-spacing="0.03em"><tspan x="-15.658" y="0">Card Name</tspan></text>
+        <text id="_1478_2255_4595_9874" data-name="1478 2255 4595 9874" transform="translate(15.005 40.344)" fill="#fff" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">1478 2255 4595 9874</tspan></text>
+        <text id="Eler_Minton" data-name="Eler Minton" transform="translate(15.005 94.601)" fill="#fff" font-size="5" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Eler Minton</tspan></text>
+        <text id="Card_Holder" data-name="Card Holder" transform="translate(15.005 83.987)" fill="#fff" font-size="4" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Card Holder</tspan></text>
+        <text id="_12_24" data-name="12/24" transform="translate(160.994 15.957)" fill="#fff" font-size="3" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="-7.83" y="0">12/24</tspan></text>
+      </g>
+      <text id="Total_Balance_Send_Money" data-name="Total Balance
+Send Money" transform="translate(20.008 62.56)" fill="#222253" font-size="6" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Total Balance</tspan><tspan font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="11">Send Money</tspan></tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit_sed_diam_nonummy_nibh_euismod_tincidunt_ut_laoreet_dolore_magna_aliquam_erat_volutpat._Learn_More" data-name="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Learn More" transform="translate(20.008 98.478)" fill="#aeaeb3" font-size="7.273" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="8">Lorem ipsum dolor sit amet, consectetuer adipiscing </tspan><tspan x="0" y="23.201">elit, sed diam nonummy nibh euismod tincidunt ut </tspan><tspan x="0" y="38.401">laoreet dolore magna aliquam erat volutpat. </tspan><tspan y="38.401" fill="#7334a6" font-family="Poppins-MediumItalic, Poppins" font-weight="500" font-style="italic">Learn </tspan></text>
+      <g id="Group_34" data-name="Group 34" transform="translate(20.008 325.454)">
+        <g id="Group_31" data-name="Group 31">
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="124.4" height="17.071" rx="8.535" transform="translate(85.679 0)" fill="#fff" stroke="#222253" stroke-miterlimit="10" stroke-width="0.25"/>
+          <text id="_2255_4595_9874_4423" data-name="2255 4595 9874 4423" transform="translate(100.571 8.217)" fill="#aeaeb3" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">2255 4595 9874 4423</tspan></text>
+          <text id="Account_Number:" data-name="Account Number:" transform="translate(0 8.217)" fill="#222253" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">Account Number:</tspan></text>
+        </g>
+        <g id="Group_32" data-name="Group 32" transform="translate(0 25.98)">
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="124.4" height="17.071" rx="8.535" transform="translate(85.679 0)" fill="#fff" stroke="#222253" stroke-miterlimit="10" stroke-width="0.25"/>
+          <text id="_2_150.00" data-name="$ 2,150.00" transform="translate(100.571 8.217)" fill="#aeaeb3" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">$ 2,150.00</tspan></text>
+          <text id="Enter_Amount:" data-name="Enter Amount:" transform="translate(0 8.217)" fill="#222253" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">Enter Amount:</tspan></text>
+        </g>
+        <g id="Group_33" data-name="Group 33" transform="translate(0 51.96)">
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="124.4" height="17.071" rx="8.535" transform="translate(85.679 0)" fill="#fff" stroke="#222253" stroke-miterlimit="10" stroke-width="0.25"/>
+          <text id="_" data-name="•••••••••" transform="translate(100.571 8.217)" fill="#aeaeb3" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.2em"><tspan x="0" y="0">•••••••••</tspan></text>
+          <text id="Password:" transform="translate(0 8.217)" fill="#222253" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">Password:</tspan></text>
+        </g>
+      </g>
+      <g id="Group_35" data-name="Group 35" transform="translate(20.008 301.086)">
+        <text id="To" transform="translate(0 7)" fill="#222253" font-size="7" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">To</tspan></text>
+        <line id="Line_4" data-name="Line 4" x2="194.324" transform="translate(15.756 10.087)" fill="none" stroke="#222253" stroke-miterlimit="10" stroke-width="0.25"/>
+      </g>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="101.151" height="28.74" rx="14.37" transform="translate(74.66 423.787)" fill="url(#linear-gradient-6)"/>
+      <text id="Send_Money" data-name="Send Money" transform="translate(125.329 440.527)" fill="#fff" font-size="9" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="-29.443" y="0">Send Money</tspan></text>
+      <text id="Available_Balance_1_701.59" data-name="Available Balance
+$ 1,701.59" transform="translate(35.763 493.759)" fill="#fff" font-size="6" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Available Balance</tspan><tspan font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="13">$ 1,701.59</tspan></tspan></text>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="91.379" height="28.74" rx="14.37" transform="translate(130.485 486.592)" fill="#fff" stroke="#222253" stroke-miterlimit="10" stroke-width="1"/>
+      <text id="Add_Fund" data-name="Add Fund" transform="translate(176.329 504.567)" fill="#222253" font-size="9" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="-22.909" y="0">Add Fund</tspan></text>
+      <path id="Path_11" data-name="Path 11" d="M7.123,0A7.12,7.12,0,0,0,1.632,11.656l.005.011a7.119,7.119,0,0,0,2.69,2.007l.036.016c.083.035.168.068.252.1l.1.038c.073.027.147.051.22.075.048.015.094.03.142.044.066.019.131.039.2.056s.117.03.175.044.118.028.178.041.134.027.2.039l.163.029c.074.012.149.021.225.031l.146.018c.085.009.172.016.258.021l.121.01c.126.006.253.01.382.01s.256,0,.382-.01c.04,0,.081-.006.121-.009.086-.006.172-.013.258-.021l.146-.019c.076-.009.151-.019.226-.031.055-.008.109-.019.163-.029l.2-.039c.06-.013.119-.028.178-.041s.117-.028.175-.044.131-.037.2-.056l.143-.045.22-.074.1-.038c.084-.032.169-.064.252-.1l.035-.015a7.141,7.141,0,0,0,2.691-2.007l.005-.012A7.121,7.121,0,0,0,7.123,0ZM8.545,7.412a2.383,2.383,0,0,1-.292.163l-.035.017a2.671,2.671,0,0,1-2.189,0l-.036-.017A2.45,2.45,0,0,1,5.7,7.412a2.612,2.612,0,1,1,2.842,0Zm-2.931.5.061.034c.071.038.142.072.215.1.056.025.115.045.172.067l.034.012a3.024,3.024,0,0,0,2.054,0l.034-.012c.058-.022.116-.042.172-.067.073-.032.145-.067.216-.1l.06-.034c.034-.018.069-.037.1-.057a5.241,5.241,0,0,1,3.43,3.595,6.688,6.688,0,0,1-2.154,1.661l-.01,0c-.085.041-.172.08-.258.117l-.06.025c-.076.032-.152.062-.23.091-.032.013-.064.025-.1.036-.069.025-.138.048-.207.071l-.129.039-.187.053-.159.039-.168.039c-.061.013-.124.024-.185.035s-.1.019-.15.028c-.07.011-.14.019-.21.028l-.134.017c-.08.008-.161.014-.241.019l-.107.008c-.117.006-.236.01-.354.01s-.236,0-.353-.01l-.108-.008c-.081-.005-.161-.011-.241-.019l-.133-.017c-.071-.009-.14-.017-.21-.028-.05-.008-.1-.018-.15-.028s-.124-.022-.185-.035-.113-.026-.168-.039l-.16-.039L5.229,13.5l-.13-.039c-.07-.023-.139-.046-.207-.071l-.1-.036q-.117-.043-.231-.091l-.059-.025c-.086-.038-.172-.076-.258-.117l-.01-.005a6.688,6.688,0,0,1-2.155-1.661A5.242,5.242,0,0,1,5.513,7.857C5.546,7.877,5.58,7.9,5.614,7.914ZM12.521,11A5.725,5.725,0,0,0,9.185,7.515a3.087,3.087,0,1,0-4.123,0A5.723,5.723,0,0,0,1.727,11,6.647,6.647,0,1,1,13.772,7.123,6.614,6.614,0,0,1,12.521,11Z" transform="translate(210.639 25.209)" fill="#fff"/>
+    </g>
+    <g id="Group_173" data-name="Group 173" transform="translate(194 2081.932) rotate(-18)">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="242.414" height="524.907" rx="40" transform="translate(0 0)" fill="#d8d8d8" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="Group_48" data-name="Group 48" transform="translate(0 0.178)">
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="242.414" height="524.907" rx="20" fill="#fff"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="242.414" height="234.506" rx="15" transform="translate(0 290.401)" fill="#f3f3f3"/>
+        <g id="Group_4" data-name="Group 4" transform="translate(19.393 19.393)">
+          <g id="Group_3" data-name="Group 3" transform="translate(0 5.66)">
+            <line id="Line_1" data-name="Line 1" x2="16.33" transform="translate(0 12.573)" fill="none" stroke="#222253" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Line_2" data-name="Line 2" x2="10.859" transform="translate(0 6.287)" fill="none" stroke="#222253" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Line_3" data-name="Line 3" x2="16.33" transform="translate(0 0)" fill="none" stroke="#222253" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+          <rect id="Rectangle_10" data-name="Rectangle 10" width="23.893" height="23.893" rx="5" transform="translate(179.734 0)" fill="url(#linear-gradient)"/>
+          <path id="Path_3" data-name="Path 3" d="M6.9,0A6.9,6.9,0,0,0,1.582,11.3l.005.011A6.9,6.9,0,0,0,4.2,13.255l.034.015c.081.034.163.066.244.1l.1.036c.07.026.141.05.213.073l.138.043c.063.019.126.037.19.054l.17.043c.057.014.115.028.172.04s.13.026.195.038l.158.028c.072.012.145.02.219.03l.141.018c.083.009.166.015.251.02l.116.01c.122.006.245.01.37.01s.249,0,.372-.01c.039,0,.077-.006.116-.009.084-.006.167-.012.25-.02l.142-.019c.073-.009.146-.019.219-.03.052-.008.1-.019.157-.028l.195-.037.172-.04c.057-.014.114-.028.17-.043s.128-.036.191-.054l.138-.044L9.24,13.4l.1-.036c.083-.031.164-.062.244-.1l.035-.014a6.919,6.919,0,0,0,2.607-1.946l.005-.012A6.9,6.9,0,0,0,6.9,0ZM8.282,7.185A2.383,2.383,0,0,1,8,7.343l-.035.016a2.589,2.589,0,0,1-2.122,0L5.81,7.343a2.383,2.383,0,0,1-.282-.158,2.532,2.532,0,1,1,2.755,0Zm-2.84.486L5.5,7.7c.068.036.138.07.209.1.055.024.111.044.167.065l.034.012a2.929,2.929,0,0,0,1.99,0l.033-.012c.057-.021.113-.041.167-.065.071-.031.141-.065.21-.1l.058-.033c.033-.018.067-.036.1-.055A5.078,5.078,0,0,1,11.791,11.1,6.482,6.482,0,0,1,9.7,12.71l-.01,0c-.082.04-.165.077-.25.114l-.057.024q-.111.047-.224.088c-.031.012-.062.024-.094.035-.066.024-.132.046-.2.068l-.126.038-.18.052-.155.038c-.054.012-.108.026-.163.037s-.119.023-.18.034l-.146.027c-.068.011-.135.019-.2.028l-.129.017c-.078.008-.156.013-.234.019l-.1.008c-.114.006-.228.01-.343.01s-.228,0-.342-.01l-.1-.008c-.078-.005-.156-.011-.234-.019l-.13-.017c-.068-.009-.136-.017-.2-.028l-.146-.027c-.06-.011-.12-.021-.18-.034L5.4,13.171l-.154-.038-.181-.052-.126-.038c-.067-.022-.134-.044-.2-.068l-.094-.035c-.076-.028-.15-.057-.223-.088l-.057-.024c-.084-.036-.168-.074-.251-.113l-.01-.005A6.47,6.47,0,0,1,2.019,11.1,5.078,5.078,0,0,1,5.344,7.616C5.376,7.635,5.41,7.653,5.442,7.671Zm6.694,2.991A5.548,5.548,0,0,0,8.9,7.284a2.993,2.993,0,1,0-4,0,5.549,5.549,0,0,0-3.234,3.378A6.443,6.443,0,1,1,13.35,6.9,6.412,6.412,0,0,1,12.136,10.662Z" transform="translate(184.776 5.042)" fill="#fff"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(8.644 102.653)">
+          <rect id="Rectangle_11" data-name="Rectangle 11" width="180.437" height="109.329" transform="translate(0 0)" fill="url(#linear-gradient-8)"/>
+          <g id="Group_5" data-name="Group 5" transform="translate(132.171 64.942)">
+            <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="9.594" cy="9.594" rx="9.594" ry="9.594" fill="#ea001b"/>
+            <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="9.594" cy="9.594" rx="9.594" ry="9.594" transform="translate(14.136 0)" fill="#f79f1a"/>
+          </g>
+          <text id="Card_Name-2" data-name="Card Name" transform="translate(152.72 91.477)" fill="#fff" font-size="4" font-family="SegoeUI, Segoe UI" letter-spacing="0.03em"><tspan x="-20.878" y="0">Card Name</tspan></text>
+          <text id="_1478_2255_4595_9874-2" data-name="1478 2255 4595 9874" transform="translate(14.777 40.254)" fill="#fff" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">1478 2255 4595 9874</tspan></text>
+          <text id="Eler_Minton-2" data-name="Eler Minton" transform="translate(14.777 92.845)" fill="#fff" font-size="6" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Eler Minton</tspan></text>
+          <text id="Card_Holder-2" data-name="Card Holder" transform="translate(14.777 82.526)" fill="#fff" font-size="5" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Card Holder</tspan></text>
+          <text id="_12_24-2" data-name="12/24" transform="translate(161.497 17.797)" fill="#fff" font-size="5" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="-13.05" y="0">12/24</tspan></text>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(193.876 102.908)">
+          <g id="Group_9" data-name="Group 9" clip-path="url(#clip-path)">
+            <g id="Group_8" data-name="Group 8" transform="translate(10.315 12.189)">
+              <rect id="Rectangle_12" data-name="Rectangle 12" width="138.661" height="84.441" fill="url(#linear-gradient-9)"/>
+              <g id="Group_7" data-name="Group 7" transform="translate(101.881 50.061)">
+                <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="7.359" cy="7.359" rx="7.359" ry="7.359" fill="#ea001b"/>
+                <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="7.359" cy="7.359" rx="7.359" ry="7.359" transform="translate(10.843 0)" fill="#f79f1a"/>
+                <path id="Path_4" data-name="Path 4" d="M3.874,4.975A7.341,7.341,0,0,1,1.94,9.95,7.348,7.348,0,0,1,1.94,0,7.344,7.344,0,0,1,3.874,4.975Z" transform="translate(10.843 2.383)" fill="#ff5f01"/>
+              </g>
+              <text id="Mastercard" transform="translate(117.664 70.466)" fill="#fff" font-size="3" font-family="SegoeUI, Segoe UI" letter-spacing="0.03em"><tspan x="-15.653" y="0">Mastercard</tspan></text>
+              <text id="_1478_2255_4595_9874-3" data-name="1478 2255 4595 9874" transform="translate(11.84 31.436)" fill="#fff" font-size="5" font-family="Poppins-Regular, Poppins" letter-spacing="0.06em"><tspan x="0" y="0">1478 2255 4595 9874</tspan></text>
+              <text id="Goutam_Das" data-name="Goutam Das" transform="translate(11.84 71.774)" fill="#fff" font-size="5" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Goutam Das</tspan></text>
+              <text id="Card_Holder-3" data-name="Card Holder" transform="translate(11.84 63.833)" fill="#fff" font-size="4" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Card Holder</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(60.826 234.656)">
+          <rect id="Rectangle_14" data-name="Rectangle 14" width="120.762" height="32.445" rx="16.222" transform="translate(0 0)" fill="url(#linear-gradient-10)"/>
+          <rect id="Rectangle_15" data-name="Rectangle 15" width="57.972" height="27.858" rx="13.929" transform="translate(2.409 2.294)" fill="#0f0f1e"/>
+          <text id="Debit" transform="translate(29.038 19.144)" fill="#fff" font-size="9" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="-12.793" y="0">Debit</tspan></text>
+          <text id="Credit" transform="translate(86.868 18.193)" fill="#fff" font-size="9" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="-15.012" y="0">Credit</tspan></text>
+        </g>
+        <g id="Group_14" data-name="Group 14" transform="translate(19.393 309.794)">
+          <rect id="Rectangle_16" data-name="Rectangle 16" width="23.893" height="23.893" rx="5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+          <g id="Group_12" data-name="Group 12" transform="translate(8.805 7.349)">
+            <path id="Path_5" data-name="Path 5" d="M3.18,9.194C1.383,9.194,0,8.212,0,6.621H1.577a1.442,1.442,0,0,0,1.6,1.332C4.215,7.953,4.8,7.4,4.8,6.633,4.8,4.462.026,5.872.026,2.561.026.983,1.28,0,3.116,0c1.72,0,2.935.906,3.065,2.444H4.552A1.406,1.406,0,0,0,3.039,1.255c-.854-.026-1.514.388-1.514,1.254,0,2.03,4.759.764,4.759,4.048C6.284,7.9,5.186,9.194,3.18,9.194Z" fill="#fff"/>
+          </g>
+          <g id="Group_13" data-name="Group 13" transform="translate(33.602 0.643)">
+            <text id="Shoping_Mart" data-name="Shoping Mart" transform="translate(0 8)" fill="#222253" font-size="8" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Shoping Mart</tspan></text>
+            <text id="Grocery_Shoping" data-name="Grocery Shoping" transform="translate(0 18.021)" fill="#aeaeb3" font-size="5" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Grocery Shoping</tspan></text>
+          </g>
+          <text id="_-_250" data-name="-$250" transform="translate(200.073 14.766)" fill="#e84a38" font-size="8" font-family="Poppins-Regular, Poppins" letter-spacing="0.03em"><tspan x="-24.992" y="0">-$250</tspan></text>
+        </g>
+        <g id="Group_17" data-name="Group 17" transform="translate(19.393 352.554)">
+          <rect id="Rectangle_17" data-name="Rectangle 17" width="23.893" height="23.893" rx="5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+          <g id="Group_15" data-name="Group 15" transform="translate(8.805 7.349)">
+            <path id="Path_6" data-name="Path 6" d="M3.18,9.194C1.383,9.194,0,8.212,0,6.621H1.577a1.442,1.442,0,0,0,1.6,1.332C4.215,7.953,4.8,7.4,4.8,6.634,4.8,4.462.026,5.872.026,2.561.026.983,1.28,0,3.116,0c1.72,0,2.935.906,3.065,2.444H4.552A1.407,1.407,0,0,0,3.039,1.255c-.854-.026-1.514.388-1.514,1.254,0,2.03,4.759.764,4.759,4.048C6.284,7.9,5.186,9.194,3.18,9.194Z" fill="#fff"/>
+          </g>
+          <g id="Group_16" data-name="Group 16" transform="translate(33.602 0.643)">
+            <text id="Shoping_Mart-2" data-name="Shoping Mart" transform="translate(0 8)" fill="#222253" font-size="8" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Shoping Mart</tspan></text>
+            <text id="Grocery_Shoping-2" data-name="Grocery Shoping" transform="translate(0 18.022)" fill="#aeaeb3" font-size="5" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Grocery Shoping</tspan></text>
+          </g>
+          <text id="_-_250-2" data-name="-$250" transform="translate(200.073 14.767)" fill="#e84a38" font-size="8" font-family="Poppins-Regular, Poppins" letter-spacing="0.03em"><tspan x="-24.992" y="0">-$250</tspan></text>
+        </g>
+        <g id="Group_20" data-name="Group 20" transform="translate(19.393 395.314)">
+          <rect id="Rectangle_18" data-name="Rectangle 18" width="23.893" height="23.893" rx="5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+          <g id="Group_18" data-name="Group 18" transform="translate(8.805 7.35)">
+            <path id="Path_7" data-name="Path 7" d="M3.18,9.194C1.383,9.194,0,8.212,0,6.621H1.577a1.442,1.442,0,0,0,1.6,1.331C4.215,7.953,4.8,7.4,4.8,6.634,4.8,4.461.026,5.871.026,2.561.026.983,1.28,0,3.116,0c1.72,0,2.935.9,3.065,2.444H4.552a1.407,1.407,0,0,0-1.513-1.19c-.854-.026-1.514.388-1.514,1.254,0,2.03,4.759.764,4.759,4.048C6.284,7.9,5.186,9.194,3.18,9.194Z" fill="#fff"/>
+          </g>
+          <g id="Group_19" data-name="Group 19" transform="translate(33.602 0.643)">
+            <text id="Shoping_Mart-3" data-name="Shoping Mart" transform="translate(0 8)" fill="#222253" font-size="8" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Shoping Mart</tspan></text>
+            <text id="Grocery_Shoping-3" data-name="Grocery Shoping" transform="translate(0 18.022)" fill="#aeaeb3" font-size="5" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Grocery Shoping</tspan></text>
+          </g>
+          <text id="_-_250-3" data-name="-$250" transform="translate(200.073 14.767)" fill="#e84a38" font-size="8" font-family="Poppins-Regular, Poppins" letter-spacing="0.03em"><tspan x="-24.992" y="0">-$250</tspan></text>
+        </g>
+        <g id="Group_23" data-name="Group 23" transform="translate(19.393 438.075)">
+          <rect id="Rectangle_19" data-name="Rectangle 19" width="23.893" height="23.893" rx="5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+          <g id="Group_21" data-name="Group 21" transform="translate(8.805 7.349)">
+            <path id="Path_8" data-name="Path 8" d="M3.18,9.194C1.383,9.194,0,8.212,0,6.621H1.577a1.442,1.442,0,0,0,1.6,1.332C4.215,7.953,4.8,7.4,4.8,6.634,4.8,4.462.026,5.872.026,2.561.026.983,1.28,0,3.116,0c1.72,0,2.935.906,3.065,2.444H4.552A1.407,1.407,0,0,0,3.039,1.255c-.854-.026-1.514.388-1.514,1.254,0,2.03,4.759.764,4.759,4.048C6.284,7.9,5.186,9.194,3.18,9.194Z" fill="#fff"/>
+          </g>
+          <g id="Group_22" data-name="Group 22" transform="translate(33.602 0.643)">
+            <text id="Shoping_Mart-4" data-name="Shoping Mart" transform="translate(0 8)" fill="#222253" font-size="8" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Shoping Mart</tspan></text>
+            <text id="Grocery_Shoping-4" data-name="Grocery Shoping" transform="translate(0 18.022)" fill="#aeaeb3" font-size="5" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Grocery Shoping</tspan></text>
+          </g>
+          <text id="_-_250-4" data-name="-$250" transform="translate(200.073 14.767)" fill="#e84a38" font-size="8" font-family="Poppins-Regular, Poppins" letter-spacing="0.03em"><tspan x="-24.992" y="0">-$250</tspan></text>
+        </g>
+        <g id="Group_26" data-name="Group 26" transform="translate(19.393 480.835)">
+          <rect id="Rectangle_20" data-name="Rectangle 20" width="23.893" height="23.893" rx="5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+          <g id="Group_24" data-name="Group 24" transform="translate(8.805 7.35)">
+            <path id="Path_9" data-name="Path 9" d="M3.18,9.194C1.383,9.194,0,8.212,0,6.621H1.577a1.442,1.442,0,0,0,1.6,1.332C4.215,7.953,4.8,7.4,4.8,6.633,4.8,4.461.026,5.871.026,2.561.026.983,1.28,0,3.116,0c1.72,0,2.935.9,3.065,2.444H4.552a1.407,1.407,0,0,0-1.513-1.19c-.854-.026-1.514.388-1.514,1.254,0,2.031,4.759.764,4.759,4.048C6.284,7.9,5.186,9.194,3.18,9.194Z" fill="#fff"/>
+          </g>
+          <g id="Group_25" data-name="Group 25" transform="translate(33.602 0.643)">
+            <text id="Shoping_Mart-5" data-name="Shoping Mart" transform="translate(0 8)" fill="#222253" font-size="8" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Shoping Mart</tspan></text>
+            <text id="Grocery_Shoping-5" data-name="Grocery Shoping" transform="translate(0 18.022)" fill="#aeaeb3" font-size="5" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Grocery Shoping</tspan></text>
+          </g>
+          <text id="_-_250-5" data-name="-$250" transform="translate(200.073 14.767)" fill="#e84a38" font-size="8" font-family="Poppins-Regular, Poppins" letter-spacing="0.03em"><tspan x="-24.992" y="0">-$250</tspan></text>
+        </g>
+        <text id="Total_Balance_3_851.59" data-name="Total Balance
+$ 3,851.59" transform="translate(114.551 60.823)" fill="#aeaeb3" font-size="6" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="-21.3" y="0">Total Balance</tspan><tspan fill="#222253" font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-31.518" y="11">$ 3,851.59</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
